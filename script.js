@@ -270,7 +270,7 @@ const trainsData = {
       { station: "Andheri", time: "06:32 AM", platform: "PF5" }
     ]
 },
-  "92014: 15car": {
+  "92014 : 15car": {
     trainNo: "92014 : 15car",
     trainMode: "Slow",
     trainRoute: "Virar to Borivali *not on Sunday*",
